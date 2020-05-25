@@ -1,11 +1,11 @@
-#EXTINF:-1,
+#EXTM3U
+#EXTINF:0,TEN SPORTS PAKISTANTEN 
 http://tv.dodear.asia:80/dodear/dodear/66
-#EXTINF:-1,TEN SPORTS PAKISTAN
-
+#EXTINF:0,GEO SUPER
 http://tv.dodear.asia:80/dodear/dodear/67
-#EXTINF:-1,GEO SUPER
+#EXTINF:0,PTV SPORT
 http://tv.dodear.asia:80/dodear/dodear/93
-#EXTINF:-1,PTV SPORTS
+#EXTINF:0,RACING TV
 http://tv.dodear.asia:80/dodear/dodear/149
 #EXTINF:-1,RACING TV
 http://tv.dodear.asia:80/dodear/dodear/150
