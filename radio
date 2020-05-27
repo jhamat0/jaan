@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,GEO NEWS
+http://107.172.105.133:8007/live
+#EXTINF:0,EXPRESS NEWS
+http://203.124.35.147:8002/relay?type=http&nocache=9
