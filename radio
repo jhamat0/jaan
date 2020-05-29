@@ -1,5 +1,23 @@
 #EXTM3U
-#EXTINF:0,GEO NEWS
+#EXTINF:0,MIANWALI FM
+http://203.124.35.147:8048/relay&error=ok
+#EXTINF:0,AWAM FM 94 KHUSHAB
 http://107.172.105.133:8007/live
-#EXTINF:0,EXPRESS NEWS
+#EXTINF:0,Saut-ul-Quran
+http://203.124.35.147:8004/relay?type=http&nocache=9
+#EXTINF:0,UJALA FM
+http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:0,FM 107 KARACHI
+http://72.255.62.220:7070/live107
+#EXTINF:0,SAMAA FM 107.4
+http://audio.samaafm.com:8884/;stream.nsv
+#EXTINF:0,fm 101 karachi
+http://203.124.35.147:8036/relay?type=http&nocache=9
+#EXTINF:0,FM 101 QUETA
+http://203.124.35.147:8090/relay
+#EXTINF:0,Dhanak
 http://203.124.35.147:8002/relay?type=http&nocache=9
+#EXTINF:0,Lahore-MW
+http://203.124.35.147:8086/relay?type=http&nocache=9
+#EXTINF:0,AK-RADIO-Tarakhel
+http://203.124.35.147:8098/relay?type=http&nocache=9
