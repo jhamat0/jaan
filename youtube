@@ -1,9 +1,9 @@
-
-Private 
+#EXTM3U
+#EXTINF:0,madni
 https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
 
 https://youtu.be/TOhxWdgUd8Y
-sama
+#EXTINF:0,sama
 https://www.youtube.com/watch?v=TOhxWdgUd8Y
 dawn news
 https://www.youtube.com/watch?v=H4OFQLn2H34
